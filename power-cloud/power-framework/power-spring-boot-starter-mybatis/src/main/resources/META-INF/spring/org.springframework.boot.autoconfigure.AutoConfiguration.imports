@@ -1,0 +1,3 @@
+cn.iocoder.power.framework.datasource.config.DataSourceAutoConfiguration
+cn.iocoder.power.framework.mybatis.config.MybatisAutoConfiguration
+cn.iocoder.power.framework.translate.config.TranslateAutoConfiguration

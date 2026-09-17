@@ -1,0 +1,5 @@
+cn.iocoder.power.framework.security.config.SecurityRpcAutoConfiguration
+cn.iocoder.power.framework.security.config.SecurityAutoConfiguration
+cn.iocoder.power.framework.security.config.WebSecurityConfigurerAdapter
+cn.iocoder.power.framework.operatelog.config.OperateLogConfiguration
+cn.iocoder.power.framework.operatelog.config.OperateLogRpcAutoConfiguration

@@ -1,0 +1,8 @@
+cn.iocoder.power.framework.apilog.config.ApiLogAutoConfiguration
+cn.iocoder.power.framework.jackson.config.JacksonAutoConfiguration
+cn.iocoder.power.framework.swagger.config.SwaggerAutoConfiguration
+cn.iocoder.power.framework.web.config.WebAutoConfiguration
+cn.iocoder.power.framework.apilog.config.ApiLogRpcAutoConfiguration
+cn.iocoder.power.framework.xss.config.XssAutoConfiguration
+cn.iocoder.power.framework.banner.config.BannerAutoConfiguration
+cn.iocoder.power.framework.encrypt.config.ApiEncryptAutoConfiguration

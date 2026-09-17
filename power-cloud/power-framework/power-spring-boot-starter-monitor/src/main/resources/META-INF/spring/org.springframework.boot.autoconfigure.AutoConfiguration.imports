@@ -1,0 +1,2 @@
+cn.iocoder.power.framework.tracer.config.TracerAutoConfiguration
+cn.iocoder.power.framework.tracer.config.MetricsAutoConfiguration

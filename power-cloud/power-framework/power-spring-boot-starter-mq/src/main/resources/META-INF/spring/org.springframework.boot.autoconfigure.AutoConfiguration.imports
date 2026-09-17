@@ -1,0 +1,3 @@
+cn.iocoder.power.framework.mq.redis.config.RedisMQProducerAutoConfiguration
+cn.iocoder.power.framework.mq.redis.config.RedisMQConsumerAutoConfiguration
+cn.iocoder.power.framework.mq.rabbitmq.config.RabbitMQAutoConfiguration

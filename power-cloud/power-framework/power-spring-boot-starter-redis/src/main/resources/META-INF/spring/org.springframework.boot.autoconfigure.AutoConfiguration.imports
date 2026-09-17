@@ -1,0 +1,2 @@
+cn.iocoder.power.framework.redis.config.RedisAutoConfiguration
+cn.iocoder.power.framework.redis.config.CacheAutoConfiguration

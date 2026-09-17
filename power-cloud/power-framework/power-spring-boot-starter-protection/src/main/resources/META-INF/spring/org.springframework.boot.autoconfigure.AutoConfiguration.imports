@@ -1,0 +1,4 @@
+cn.iocoder.power.framework.idempotent.config.IdempotentConfiguration
+cn.iocoder.power.framework.lock4j.config.Lock4jConfiguration
+cn.iocoder.power.framework.ratelimiter.config.RateLimiterConfiguration
+cn.iocoder.power.framework.signature.config.ApiSignatureAutoConfiguration

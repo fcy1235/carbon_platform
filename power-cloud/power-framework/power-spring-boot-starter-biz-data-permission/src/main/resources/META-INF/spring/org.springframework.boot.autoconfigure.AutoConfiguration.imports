@@ -1,0 +1,3 @@
+cn.iocoder.power.framework.datapermission.config.DataPermissionAutoConfiguration
+cn.iocoder.power.framework.datapermission.config.DeptDataPermissionAutoConfiguration
+cn.iocoder.power.framework.datapermission.config.DataPermissionRpcAutoConfiguration
