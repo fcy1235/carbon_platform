@@ -1,0 +1,31 @@
+/* energyCarbon 模块公共样式：修复 disabled 表单组件看不清的问题 */
+
+/* Input / InputNumber / Textarea disabled */
+.ant-input-disabled,
+.ant-input-number-disabled .ant-input-number-input,
+.ant-input-affix-wrapper-disabled,
+textarea.ant-input-disabled {
+  color: rgba(0, 0, 0, 0.65) !important;
+  -webkit-text-fill-color: rgba(0, 0, 0, 0.65) !important;
+}
+
+/* Select disabled */
+.ant-select-disabled .ant-select-selector {
+  color: rgba(0, 0, 0, 0.65) !important;
+  -webkit-text-fill-color: rgba(0, 0, 0, 0.65) !important;
+}
+
+/* DatePicker / TimePicker disabled */
+.ant-picker-disabled {
+  color: rgba(0, 0, 0, 0.65) !important;
+  -webkit-text-fill-color: rgba(0, 0, 0, 0.65) !important;
+}
+
+/* ====== 弹框内表格样式：防止文字换行/竖排 ====== */
+.energy-carbon-table .ant-table-cell {
+  white-space: nowrap !important;
+}
+
+.energy-carbon-table .ant-table-thead > tr > th {
+  white-space: nowrap !important;
+}
